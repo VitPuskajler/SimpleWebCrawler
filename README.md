@@ -31,8 +31,9 @@ images(id, url, location)
 extracted_text(id, title, content, location, tag)
 problems(id, url)
 
+---
 
- Tech Stack
+## 🏌️‍♂️Tech Stack
 🐍 Python
 
 🍜 BeautifulSoup (for parsing)
