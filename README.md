@@ -30,7 +30,7 @@ links(id, url, content, description, location)
 images(id, url, location)
 extracted_text(id, title, content, location, tag)
 problems(id, url)
-
+```
 ---
 
 ## 🏌️‍♂️Tech Stack
